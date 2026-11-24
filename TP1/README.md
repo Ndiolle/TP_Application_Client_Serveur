@@ -1,11 +1,11 @@
-TP1 - Le modèle client-serveur
-Cours : Applications Client-Serveur et Web (ACSW), DUT2 Réseaux et Télécommunications
-Établissement : UCAD / École Supérieure Polytechnique, Département Génie Informatique
-Année universitaire : 2026-2027
-Binôme :
-Fatou Ndiollé Diouf
-Diarietou Oumoul Kalsoum Niang
-Contenu du dossier
+##TP1 - Le modèle client-serveur
+##Cours : Applications Client-Serveur et Web (ACSW), DUT2 Réseaux et Télécommunications
+##Établissement : UCAD / École Supérieure Polytechnique, Département Génie Informatique
+##Année universitaire : 2026-2027
+##Binôme :
+##Fatou Ndiollé Diouf
+##Diarietou Oumoul Kalsoum Niang
+##Contenu du dossier
 Fichier	Description
 `README.md`	Réponses aux questions du TP (ce fichier)
 Compte rendu PDF	Compte rendu complet, avec toutes les captures d'écran
