@@ -1,4 +1,5 @@
-##TP1 - Le modèle client-serveur
+##
+TP1 - Le modèle client-serveur
 Cours : Applications Client-Serveur et Web (ACSW), DUT2 Réseaux et Télécommunications
 Établissement : UCAD / École Supérieure Polytechnique, Département Génie Informatique
 Année universitaire : 2026-2027
